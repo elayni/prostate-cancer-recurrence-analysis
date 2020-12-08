@@ -18,7 +18,7 @@ coming soon
 3. boxplots
 
 ### Third part:
-[Data Vizualization]()
+[Data Vizualization](https://github.com/elayni/prostate-cancer-recurrence-analysis/blob/main/data-visualization.ipynb)
 
 ### Fourth part
 coming soon
