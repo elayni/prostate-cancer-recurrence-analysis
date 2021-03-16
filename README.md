@@ -22,3 +22,4 @@ coming soon
 
 ### Fourth part
 coming soon
+<center>Centered text</center>
